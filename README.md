@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
-​🇸​​🇲​​🇴​​🇰​​🇮​​🇪​​x​​🇲​​🇦​​🇸​​🇺​​🇲​
+<b>ＳＭＯＫＩＥｘＭＡＳＵＭ </b>
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
