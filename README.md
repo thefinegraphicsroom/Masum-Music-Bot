@@ -7,7 +7,7 @@
 <h1 align="center"
   
 <h1 align="center"><b>【﻿Ｔｅａｍ　♥ＳＳ♥　Ｂｏｔｓ】</b></h1>
-<p align="center"><a href="https://t.me/SmokieOfficial"><img src="https://telegra.ph/file/207afbc175113d14d1231.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/SmokieOfficial"><img src="https://cdn.glitch.global/dafcc31d-5320-4820-a782-a5d77394dfb7/Readme%20Photo.jpg?v=1732988822394" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
