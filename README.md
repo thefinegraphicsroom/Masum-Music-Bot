@@ -27,6 +27,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ / ᴠᴘs 」─
 </h3>
 
+
 - Get your [Necessary Variables](https://github.com/thefinegraphicsroom/Masum-Music-Bot-/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
@@ -51,7 +52,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - Finally run the bot by :
 `bash start`
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 [![Contributors](https://contrib.rocks/image?repo=thefinegraphicsroom/Masum-Music-Bot)](https://github.com/thefinegraphicsroom/Masum-Music-Bot/graphs/contributors)
